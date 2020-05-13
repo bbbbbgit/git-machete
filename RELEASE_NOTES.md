@@ -4,6 +4,7 @@
 
 - added: `add` accepts remote branches as well (just like `git checkout`)
 - added: `addable` category of `list`
+- added: `machete-post-slide-out` hook
 
 ## New in git-machete 2.14.0
 
